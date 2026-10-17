@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/IDEA-Research/GroundingDINO/commit/856dde20aee659246248e20734ef9ba5214f5e44",
       "git:hexsha": "856dde20aee659246248e20734ef9ba5214f5e44",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/IDEA-Research/GroundingDINO/commit/ddedf74b250249e0ae81f3781cbf98b3b4d3cb88",
