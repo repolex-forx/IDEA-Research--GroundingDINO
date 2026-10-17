@@ -1,0 +1,11 @@
+{
+  "org": "IDEA-Research",
+  "repo": "GroundingDINO",
+  "versions": [
+    {
+      "commit": "856dde20aee659246248e20734ef9ba5214f5e44",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:23:45.696879+00:00"
+    }
+  ]
+}
